@@ -1,0 +1,28 @@
+.Answer {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+
+.Answer--item {
+    box-sizing: border-box;
+    background-color: #1913d6;
+    color: white;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Answer--item:hover,
+.Answer--item:active
+{
+    background-color: red;
+}

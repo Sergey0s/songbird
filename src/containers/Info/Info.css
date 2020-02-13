@@ -1,0 +1,49 @@
+.Info {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 45%;
+    margin: 40px 10px;
+    flex-wrap: wrap;
+}
+
+.Info--div {
+    display: flex;
+    flex-direction: row;
+}
+
+.Info__img {
+    width: 80%;
+}
+
+.Info--text {
+    width: 55%;
+    text-align: center;
+}
+
+.Info--text__title {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.Info--text__subtitle {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.Info--audio {
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.Info--description {
+    margin: 1rem;
+    padding: 0.5rem;
+}
+
+.Info--description__text {
+    font-size: 1rem;
+    text-align: center;
+}

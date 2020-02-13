@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8fbf53b-406c-4696-9b9c-988d666dd7bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Answer/Answer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Answer/Answer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BirdImage/BirdImage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BirdImage/BirdImage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Logo/Logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Logo/Logo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Modal/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal/Modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavigationItem/NavigationItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavigationItem/NavigationItem.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Score/Score.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Score/Score.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Score/Score.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Score/Score.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Answers/Answers.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Answers/Answers.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Info/Info.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Info/Info.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/NavigationItems/NavigationItems.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/NavigationItems/NavigationItems.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Questions/Questions.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Questions/Questions.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Questions/Questions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Questions/Questions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hoc/Layout/Layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XhSkMeEtzGFrO9Y0UJvmqqtSXc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/containers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8fbf53b-406c-4696-9b9c-988d666dd7bc" name="Default Changelist" comment="" />
+      <created>1581496974651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581496974651</updated>
+      <workItem from="1581496976406" duration="36539000" />
+      <workItem from="1581537387880" duration="6885000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1581541282289</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581541282289</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="267" width="669" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581517803294">
+      <screen x="49" y="27" width="1551" height="873" />
+    </state>
+    <state x="485" y="267" width="669" height="390" key="#com.intellij.fileTypes.FileTypeChooser/49.27.1551.873@49.27.1551.873" timestamp="1581517803294" />
+    <state x="510" y="153" width="619" height="619" key="#npm_start" timestamp="1581497297018">
+      <screen x="49" y="27" width="1551" height="873" />
+    </state>
+    <state x="510" y="153" width="619" height="619" key="#npm_start/49.27.1551.873@49.27.1551.873" timestamp="1581497297018" />
+    <state x="387" y="27" width="865" height="873" key="CommitChangelistDialog2" timestamp="1581544366708">
+      <screen x="49" y="27" width="1551" height="873" />
+    </state>
+    <state x="387" y="27" width="865" height="873" key="CommitChangelistDialog2/49.27.1551.873@49.27.1551.873" timestamp="1581544366708" />
+    <state x="607" y="220" width="447" height="484" key="FileChooserDialogImpl" timestamp="1581541157959">
+      <screen x="49" y="27" width="1551" height="873" />
+    </state>
+    <state x="607" y="220" width="447" height="484" key="FileChooserDialogImpl/49.27.1551.873@49.27.1551.873" timestamp="1581541157959" />
+    <state x="677" y="357" key="Github.ShareDialog" timestamp="1581541193804">
+      <screen x="49" y="27" width="1551" height="873" />
+    </state>
+    <state x="677" y="357" key="Github.ShareDialog/49.27.1551.873@49.27.1551.873" timestamp="1581541193804" />
+    <state x="313" y="97" key="SettingsEditor" timestamp="1581497242099">
+      <screen x="49" y="27" width="1551" height="873" />
+    </state>
+    <state x="313" y="97" key="SettingsEditor/49.27.1551.873@49.27.1551.873" timestamp="1581497242099" />
+    <state x="419" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1581541284350">
+      <screen x="49" y="27" width="1551" height="873" />
+    </state>
+    <state x="419" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2/49.27.1551.873@49.27.1551.873" timestamp="1581541284350" />
+    <state x="488" y="208" key="run.anything.popup" timestamp="1581499410644">
+      <screen x="49" y="27" width="1551" height="873" />
+    </state>
+    <state x="488" y="208" key="run.anything.popup/49.27.1551.873@49.27.1551.873" timestamp="1581499410644" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+.BirdImage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.BirdImage img {
+    height: auto;
+    width: 60%;
+    margin: 8px;
+    border-radius: 1rem;
+}
